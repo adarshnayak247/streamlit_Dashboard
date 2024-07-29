@@ -24,10 +24,6 @@ To get started with the Loan Eligibility Predictor, follow these steps:
 
 1. **Clone the Repository**
 
-   ```bash
-   git https://github.com/adarshnayak247/leaf-disease.git
-   cd financial-data-dashboard
-   ```
 2. **Create and Activate a Virtual Environment on windows**
 
    ```bash
